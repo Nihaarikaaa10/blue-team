@@ -1,2 +1,2 @@
-# Ps2.0
+# blue-team
 Fake news detection
