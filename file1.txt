@@ -1,0 +1,11 @@
+hello project school 2.0
+cyber security session
+Server:		192.168.253.2
+Address:	192.168.253.2#53
+
+Non-authoritative answer:
+Name:	google.com
+Address: 142.250.205.238
+Name:	google.com
+Address: 2404:6800:4007:81e::200e
+
